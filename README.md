@@ -11,7 +11,8 @@ As data analyst enthusiast, analyzing this data was so intersting!, this is an o
 
 
 ## Files in the repository
-- data.csv: The dataset file
+- boston.csv: The Boston dataset file
+- seattle.csv: The seattle dataset file
 - Airbnb Report.ipynb: Notebook containing the analysis and it's code
 - The readme file
 
