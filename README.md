@@ -3,7 +3,7 @@
 ## Libraries used
 - Numpy
 - Pandas
-- matplotlib
+- Matplotlib
 
 
 ## Analysis summary
