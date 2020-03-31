@@ -1,1 +1,7 @@
-# Data-science-project
+# Airbnb Data analysis
+
+## Libraries used:
+- Numpy
+- Pandas
+- matplotlib
+
